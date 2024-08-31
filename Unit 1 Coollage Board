@@ -6,3 +6,9 @@ Class Decleration) Identifies the name, the start and the end of the class.
 
 public static void main (String [] args){ ----> Main method
 
+String Literal
+--------------
+String literal is enclosed in double quotes
+A string literal in Java is an exact sequence of charaters (letters, numbers and symbols) which are enclosed in two quotation marks.
+For example) "ABC123#£" or "1234567"
+
