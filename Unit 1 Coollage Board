@@ -1,0 +1,8 @@
+The complier will ignore any text between the /* and */ characters.
+public class HelloWorld} -------> Class Decleration
+
+Class Decleration) Identifies the name, the start and the end of the class.
+(It must be math the file name)
+
+public static void main (String [] args){ ----> Main method
+
