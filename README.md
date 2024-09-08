@@ -12,6 +12,8 @@ I am currently a 12th-grade student at Hisar School, where I have developed a de
 
 [My Scratch Project] [(https://scratch.mit.edu/projects/1062310956/editor/)](https://scratch.mit.edu/projects/1062310956/editor/)
 
+[College Board Unit 2 Summary from 2.1 to 2.5](https://github.com/BartuOncul/AP-CSA/tree/main/Unit%202/College%20Board)
+
 
 
 
